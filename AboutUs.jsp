@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta charset="UTF-8">
+s<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us - Box Pharmacy</title>
+<link rel="stylesheet" type="text/css" href="AboutUs.css">
+</head>
+<body>
+ <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="product.html">Products</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="aboutus">
+            <h1>About Us</h1>
+            <p>Welcome to MedOne, your one-stop-shop for all your healthcare needs. We are a team of dedicated healthcare professionals who are committed to providing the best possible care to our customers.</p>
+            <p>Our mission is to provide high-quality healthcare products and services that improve the health and well-being of our customers. We believe that everyone deserves access to affordable healthcare, and we are committed to making that a reality.</p>
+            <p>Whether you need prescription medication, over-the-counter products, or advice on how to improve your health, our knowledgeable and friendly staff are here to help. We take the time to listen to your concerns and provide personalized recommendations that are tailored to your unique needs.</p>
+            <p>At MedOne, we believe that healthcare should be accessible, affordable, and convenient. That's why we offer online ordering, home delivery, and a range of other services that make it easy for you to get the care you need.</p>
+            <p>Thank you for choosing MedOne for your healthcare needs. We look forward to serving you.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 MedOne. All rights reserved.</p>
+    </footer>
+</body>
+</html>
